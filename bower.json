@@ -1,0 +1,20 @@
+{
+  "name": "moment-ka-custom",
+  "repository": "",
+  "version": "2.18.1",
+  "main": "moment-locale-ka.js",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Nick Shvelidze <captain@pirrate.me>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shvelo/moment-ka-custom.git"
+  },
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
